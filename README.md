@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Ersy - Secure Steganography with RSA and AES
 
 Ersy is an advanced GUI-based steganography tool that securely hides and extracts encrypted files within image files. It combines **AES-256** for fast encryption and **RSA-4096** for secure key exchange, along with **seeded LSB steganography** for undetectable data embedding.
